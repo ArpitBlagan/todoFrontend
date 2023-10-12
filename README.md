@@ -1,4 +1,5 @@
 Live Link:https://65283027b12eff5261dbbe8e--earnest-pastelito-300e49.netlify.app
+Simple todo list crud mern app
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
